@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StarfieldSaveConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "imp\\Saves\\Quicksave2_813E9BB9_4368726973_020748_20230907192253_21_0_4.sfs convback_quick.sfs",
+      "workingDirectory": "M:\\DevEnvironment\\DevWorkspace\\dotNETProjects\\StarfieldSaveConverter\\StarfieldSaveConverter\\bin\\Debug\\net7.0"
+    }
+  }
+}
